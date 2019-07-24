@@ -5,6 +5,7 @@ It is a simple quotation system allows companies to obtain pdf quotations, colle
 #Description in English========================================
 
 download the zip file then execute proj1.py
+
 The menu of the pygame framework will appear:
 
 (1) input ouder
@@ -19,9 +20,12 @@ There are three buttons Clear Cust-info, Clear Item and Clear Trans-info to clea
 In (2), you can search for a company or item by full name or keyword and store the data in result.xlsx.
 Note: different queries will overwrite result.xlsx. If you need this result, please save the file.
 
+
+
 #中文說明=======================================================
 
 下載zip檔後執行proj1.py
+
 會出現pygame框架的menu:
 
 (1) input ouder
