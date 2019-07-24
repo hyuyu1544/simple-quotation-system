@@ -38,6 +38,7 @@ Note: different queries will overwrite result.xlsx. If you need this result, ple
 
 在(1)中，輸入完成按右下角的export會輸出報價單pdf檔至同一個目錄，檔名同No.編號，並且依據品項數存資料到同目錄下的Quotation.csv中。
 其中增設三個按鍵Clear Cust-info、Clear Item及Clear Trans-info來清空對應的輸入格。
+![image](https://github.com/hyuyu1544/simple-quotation-system/blob/master/image/Webp.net-gifmaker.gif)
 
 在(2)中可依全名或關鍵字來搜尋公司或品項，並儲存資料至result.xlsx中。
 注意:不同次查詢會覆蓋result.xlsx，需要此結果請另存檔案。
