@@ -17,6 +17,7 @@ Click (1) to enter the input quotation page, click (2) to search for past quotat
 
 In (1), the input is completed by pressing the export in the lower right corner to output the quotation pdf file to the same directory, the file name is the same as the No. number, and the data is stored according to the number of items to the Quotation.csv in the same directory.
 There are three buttons Clear Cust-info, Clear Item and Clear Trans-info to clear the corresponding input cells.
+![image](https://github.com/hyuyu1544/simple-quotation-system/blob/master/Webp.net-gifmaker.gif)
 
 In (2), you can search for a company or item by full name or keyword and store the data in result.xlsx.
 Note: different queries will overwrite result.xlsx. If you need this result, please save the file.
